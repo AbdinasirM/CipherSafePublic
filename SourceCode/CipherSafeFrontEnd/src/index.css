@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marck+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Madimi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Archivo:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.accountname{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+body {
+  /* background-color: hsla(20, 12%, 95%, 0.952); */
+  background: #ffffff;
+}
+
+.gitbtn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+.demobtn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+  
+.navbar{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #006eff;
+    }
+
+.trybtn:hover{
+    color: #000000;
+    background-color: #fff;
+}
+
+.fa-fingerprint{
+    font-size: 25px;
+}
+.learnbtn{
+    color: #000000;
+}
+
+.learnbtn:hover{
+    color: #fff;
+}
+/* generate button */
+.genbtn{
+    background-color: #006eff;
+    color: #ffffff;
+}  
+
+.genbtn:hover{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+
+}
+
+/* sign up button */
+.spbtn{
+    background-color: #006eff;
+    color: #ffffff;
+}  
+
+.spbtn:hover{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+
+}
+/* sign in button */
+.snbtn{
+    background-color: #006eff;
+    color: #ffffff;
+}  
+
+.snbtn:hover{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+
+}
+.rsmbtn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    
+  }
+  
+.lkdbtn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(56, 133, 206);
+  }
+  
+.footer {
+    background-color: #000000;
+  }
+
+.firstheader{
+    font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.brandName{
+    font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.subtitle{
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+}
+
+.form-range{}
